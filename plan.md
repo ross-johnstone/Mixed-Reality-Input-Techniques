@@ -1,9 +1,9 @@
 # Plan
 
-* PROJECT TITLE
-* YOUR NAME
-* STUDENT ID
-* SUPERVISOR NAME
+* MIXED REALITY INPUT TECHNIQUES
+* ROSS JOHNSTONE
+* 2325563J
+* JULIE WILLIAMSON
 
 Week-by-week plan for the whole project. Update this as you go along.
 
