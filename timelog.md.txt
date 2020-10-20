@@ -14,13 +14,29 @@
 
 ## Week 1
 
-### 19 Oct 2019
+### 6 Oct 2020
 
 * *4 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
-* *1 hour* Modified dissertation template, compiled  
+* *1 hour* Modified dissertation template, compiled
+* *0.5 hours* Meeting with supervisor  
 
-## 20 Oct 2019
+## 7 Oct 2020
 
-* *1 hour* meeting with supervisor
-* *2 hours* writing initial version of test harness
+* *1 hour* Watched recommended video on Quest 2 virtual desktop and researched Quest 2 functionality
+* *1.5 hours* Read A Systematic Review of Gesture Elicitation Studies and summarised
+
+
+## 8 Oct 2020
+
+* *1.5 hours* Read User-defined Motion Gestures for Mobile Interaction and summarised
+
+## 9 Oct 2020
+
+* *1.5 hours* Watching youtube tutorials on developing for VR in Unity
+
+## Week 2
+
+### 13 Oct 2020
+* *0.5 hours* Meeting with supervisor
+
